@@ -513,7 +513,11 @@ li {
     span{
         font-size: .8em;
     }
-    
+    .main {
+      top: 35%;
+  left: 15px;
+  right: 15px;
+}
 }
 
 @media (max-width:480px) {
@@ -574,7 +578,8 @@ li {
     }
     .main {
         top: 35%;
-  left: 5%;
+  left: 15px;
+  right: 15px;
   }
 }
 
@@ -634,6 +639,7 @@ span{
 }
 .main {
       top: 35%;
-left: 2%;
+  left: 15px;
+  right: 15px;
 }
 }
